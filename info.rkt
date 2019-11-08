@@ -5,6 +5,7 @@
 
 (define deps '(
   "define-assets-from"
+  "image-coloring"
   "https://github.com/aBlender/flash-card.git"
   ))
 
